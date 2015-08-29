@@ -1,4 +1,4 @@
-## Boxing with Friends 
+## Boxing with Frenemies 
 Andoird App that lets you enjoy a professional Boxing match remotely against your friends while OpenCV 3.0  (a computer vision library) utilizes your camera to combine photography and augmented reality to capture, manipulate and track opponent’s face in real-time.
 
 
