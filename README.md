@@ -1,5 +1,5 @@
 ## Oorjthandhram.js
-Enjoy a professional Boxing match remotely against your friend while open CSV utilizes your camera to combine photography and augmented reality to capture, manipulate and track opponent’s face in real-time
+Andoird App that lets you enjoy a professional Boxing match remotely against your friends while OpenCV utilizes your camera to combine photography and augmented reality to capture, manipulate and track opponent’s face in real-time.
 
 
 ### How the braches will be set up
