@@ -2,7 +2,8 @@
 Enjoy a professional Boxing match remotely against your friend while open CSV utilizes your camera to combine photography and augmented reality to capture, manipulate and track opponent’s face in real-time
 
 
- How the braches will be set up
+### How the braches will be set up
+
 *You don’t have to know this but it might help:*
 
 1. Some simple high school math and Physics
