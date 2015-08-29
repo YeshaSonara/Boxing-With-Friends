@@ -1,12 +1,12 @@
-## Oorjthandhram.js
+## Boxing with Friends 
 Andoird App that lets you enjoy a professional Boxing match remotely against your friends while OpenCV utilizes your camera to combine photography and augmented reality to capture, manipulate and track opponent’s face in real-time.
 
 
-### How the braches will be set up
+### How the branchs will be set up:
 
 
 ### Whats its composed of?
-1.OpenCV (a computer vision library)
+1. OpenCV (a computer vision library)
 2. Android SDK (a mobile app framework)
 3. OpenGL ES (a 3D graphics framework)
 4. JNI (a Java/C++ interoperability layer)
