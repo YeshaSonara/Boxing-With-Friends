@@ -23,7 +23,7 @@ Andoird App that lets you enjoy a professional Boxing match remotely against you
 8. Dynamics is the study of force and motion. By specifying the forces acting on object, you can compute its motion. Again google will have most of the formulas which will be plugged into the SDK
 
 
-
+###*More Details Coming soon*###
 
 
 
