@@ -4,6 +4,13 @@ Enjoy a professional Boxing match remotely against your friend while open CSV ut
 
 ### How the braches will be set up
 
+
+### Whats its composed of?
+1.OpenCV (a computer vision library)
+2. Android SDK (a mobile app framework)
+3. OpenGL ES (a 3D graphics framework)
+4. JNI (a Java/C++ interoperability layer)
+
 *You don’t have to know this but it might help:*
 
 1. Some simple high school math and Physics
